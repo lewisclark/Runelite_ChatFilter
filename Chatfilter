@@ -84,6 +84,7 @@ trade.*?accepted.*?with.*?for
 (?i)on\s+your\s+hands\?.*sell\s+it\s+to\s+me.*quick\s+cash
 (?i)buying\s+\w+.*\d+\s*[mb].*paying\s+more\s+than\s+average\s+market\s+rate
 (?i)buying\s+\w+.*for\s+\d+\s*[mb].*best\s+offer.*get
+(?i)buy(ing)?\s+[\w+\s+']+\d+[mb]
 
 (?# Giveaways and events)
 (?i)quitting? .*? giving \d+ percent.*? (1|one) trade
