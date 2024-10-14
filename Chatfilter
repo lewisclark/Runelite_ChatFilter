@@ -153,6 +153,8 @@ trade.*?accepted.*?with.*?for
 (?i)\d+\s*[mb]\s+instantly\s+for\s+your\s+vote
 (?i)infernal\s*market
 (?i)add\s*our\s*discord\s*support\s*account
+(?i)\d+\s*[mb]\s*\+?\s*(monthly|weekly)\s*giveaway
+(?i)[li]nf[e3]rn[0o]cape\s*c\s*o\s*m
 
 (?# Specific adverts)
 (?i)partypetegp
