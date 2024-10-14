@@ -151,6 +151,8 @@ trade.*?accepted.*?with.*?for
 (?i)\d+\+\s+payment\s+method
 (?i)\d+\%\s+ban\s+rate
 (?i)\d+\s*[mb]\s+instantly\s+for\s+your\s+vote
+(?i)infernal\s*market
+(?i)add\s*our\s*discord\s*support\s*account
 
 (?# Specific adverts)
 (?i)partypetegp
