@@ -155,6 +155,7 @@ trade.*?accepted.*?with.*?for
 (?i)add\s*our\s*discord\s*support\s*account
 (?i)\d+\s*[mb]\s*\+?\s*(monthly|weekly)\s*giveaway
 (?i)[li]nf[e3]rn[0o]cape\s*c\s*o\s*m
+(?i)(\[.*\]\s*){2,}
 
 (?# Specific adverts)
 (?i)partypetegp
