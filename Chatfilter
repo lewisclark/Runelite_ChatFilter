@@ -158,6 +158,8 @@ trade.*?accepted.*?with.*?for
 (?i)(\[.*\]\s*){2,}
 (?i)final\s*form\s*on[l\|]yfans/\w+
 (?i)onlyfans\s*\/?\s*stellapog
+(?i)warning\s*\[.*\]\s*is\s*a\s*hacker
+(?i)\[.*\]\s*will\s*try\s*(to)?\s*send\s*you\s*virus
 
 (?# Specific adverts)
 (?i)partypetegp
