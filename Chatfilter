@@ -160,6 +160,8 @@ trade.*?accepted.*?with.*?for
 (?i)onlyfans\s*\/?\s*stellapog
 (?i)warning\s*\[.*\]\s*is\s*a\s*hacker
 (?i)\[.*\]\s*will\s*try\s*(to)?\s*send\s*you\s*virus
+(?i)~~\s*ste[l|]+apog\s*~~
+(?i)~~(o|\(\))n[l|]yfans~~
 
 (?# Specific adverts)
 (?i)partypetegp
